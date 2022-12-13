@@ -1,8 +1,12 @@
 # i3wm-dotfiles-Catppuccin
-My i3wm dotfiles with Catppuccin Theme
+
+My i3wm dotfiles with Catppuccin Theme Backup
+( Use this shit whenever you want... )
 
 <br>
 <br>
+
+# Preview
 
 <b> Desktop </b> <br>
 
@@ -12,4 +16,10 @@ My i3wm dotfiles with Catppuccin Theme
 <br>
 
 <b> Terminal </b> <br>
-![2022-12-13_19-16](https://user-images.githubusercontent.com/109078709/207304299-3e2e843e-0d74-46ee-965b-e01ab7e432d9.jpg)
+
+![2022-12-13_19-39](https://user-images.githubusercontent.com/109078709/207308310-981bf2ad-4298-4ca9-8fb0-ac20d580ae7c.jpg)
+
+<br>
+<br>
+
+
